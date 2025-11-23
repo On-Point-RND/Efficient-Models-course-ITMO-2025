@@ -54,16 +54,25 @@
 ## Квантование моделей и Triton-оптимизация
 
 - **Реализация Triton-кернелей для квантизации весов в LLM и инференса квантизованной модели**  
-  [Презентация](https://docs.google.com/presentation/d/1wVt59BXlpecdIsPMsVrmu5LWq643lpo4KoSyTwQw2WY/edit?usp=sharing) | [GitHub](https://github.com/echanatwell/LLM_weight_quantization_triton)
-  [Презентация](https://docs.google.com/presentation/d/1EOnwKNEroBrkImiSahOT7TQaaaZoFN6yECTIENl_Zz0/edit?usp=sharing) | [GitHub](https://github.com/LadaNikitina/EDLM_Ledneva)
-  [Презентация](https://docs.google.com/presentation/d/1gHym7QXVN8_Eeu4KGZlcihIEFXk__xSdUHJ6kdLeu4M/edit?usp=sharing) | [GitHub](https://github.com/3LayerPerceptron/EDLM-quantization)
-  [GitHub](https://github.com/Artyom1363/EDLM-LLMint4quant)
-  [Презентация](https://docs.google.com/presentation/d/1jI7AaI7eOdfkCbPZx7HPDU_FzpYwCnEChPuZwRdznY8/edit?usp=sharing) | [GitHub](https://github.com/Maxon081102/int4_bf16)
-  [Презентация](https://docs.google.com/presentation/d/1WqyRSKxBo0hWmQvjSuGA0CmQ9lx11_9-LJoqfcvgoYc/edit?usp=sharing) | [GitHub](https://github.com/PeMikj/int4)
-  [Презентация](https://docs.google.com/presentation/d/1q5U9GySLYhBtQ6d-rHM0eitG6wglxUJGLER8AKyG--c/edit?usp=sharing) | [GitHub](https://github.com/Mihail-Olegovich/Efficient-DL-Llama-3-Quant)
-  [Презентация](https://www.figma.com/slides/uvcAQHNwRq5f87Ti94zanV/int4-triton-kernels-slides?node-id=1-521&t=t1Pqr1ZRwG0lZiSw-1) | [GitHub](https://github.com/sashaboriskin/int4x4-to-fp16-linear)
-  [GitHub](https://github.com/ankkarp/TritonQuantLLama)
-  [GitHub](https://github.com/anaaaiva/llm-quantization)
+ (1) [Презентация](https://docs.google.com/presentation/d/1wVt59BXlpecdIsPMsVrmu5LWq643lpo4KoSyTwQw2WY/edit?usp=sharing) | [GitHub](https://github.com/echanatwell/LLM_weight_quantization_triton)
+
+(2)  [Презентация](https://docs.google.com/presentation/d/1EOnwKNEroBrkImiSahOT7TQaaaZoFN6yECTIENl_Zz0/edit?usp=sharing) | [GitHub](https://github.com/LadaNikitina/EDLM_Ledneva)
+
+(3)  [Презентация](https://docs.google.com/presentation/d/1gHym7QXVN8_Eeu4KGZlcihIEFXk__xSdUHJ6kdLeu4M/edit?usp=sharing) | [GitHub](https://github.com/3LayerPerceptron/EDLM-quantization)
+
+(4)  [GitHub](https://github.com/Artyom1363/EDLM-LLMint4quant)
+
+(5)  [Презентация](https://docs.google.com/presentation/d/1jI7AaI7eOdfkCbPZx7HPDU_FzpYwCnEChPuZwRdznY8/edit?usp=sharing) | [GitHub](https://github.com/Maxon081102/int4_bf16)
+
+(6)  [Презентация](https://docs.google.com/presentation/d/1WqyRSKxBo0hWmQvjSuGA0CmQ9lx11_9-LJoqfcvgoYc/edit?usp=sharing) | [GitHub](https://github.com/PeMikj/int4)
+
+(7)  [Презентация](https://docs.google.com/presentation/d/1q5U9GySLYhBtQ6d-rHM0eitG6wglxUJGLER8AKyG--c/edit?usp=sharing) | [GitHub](https://github.com/Mihail-Olegovich/Efficient-DL-Llama-3-Quant)
+
+(8)  [Презентация](https://www.figma.com/slides/uvcAQHNwRq5f87Ti94zanV/int4-triton-kernels-slides?node-id=1-521&t=t1Pqr1ZRwG0lZiSw-1) | [GitHub](https://github.com/sashaboriskin/int4x4-to-fp16-linear)
+
+(9)  [GitHub](https://github.com/ankkarp/TritonQuantLLama)
+
+(10)  [GitHub](https://github.com/anaaaiva/llm-quantization)
 
 ## Ускорение и профилирование ASR / Whisper
 
