@@ -2,58 +2,41 @@
 
 ## Лекции
 
-- **Мотивация к курсу и что такое вычислительная эффективность. От чего зависит эффективность работы моделей**  
-  [YouTube](https://youtu.be/jODQiHnZpW8?si=8hCaywKwiXtpcqYw)
+- **Мотивация к курсу и что такое вычислительная эффективность. От чего зависит эффективность работы моделей**   [YouTube](https://youtu.be/jODQiHnZpW8?si=8hCaywKwiXtpcqYw)
 
-- **Автоматический поиск архитектур**  
-  [YouTube](https://youtu.be/YdOcl9QJWrw?si=uf9GXIrLAAnI2hu7)
+- **Автоматический поиск архитектур**  [YouTube](https://youtu.be/YdOcl9QJWrw?si=uf9GXIrLAAnI2hu7)
 
-- **Аппаратное обеспечение и низкоуровневые решения. Введение в вычислительные устройства, как работают CPU и GPU память**  
-  [YouTube](https://youtu.be/ul8Fg4PaDwI?si=37Pyhd4Q6hqTCXt5)
+- **Аппаратное обеспечение и низкоуровневые решения. Введение в вычислительные устройства, как работают CPU и GPU память** [YouTube](https://youtu.be/ul8Fg4PaDwI?si=37Pyhd4Q6hqTCXt5)
 
-- **JIT and Compile в PyTorch 2.0. Погружение в JIT trace, jit compile и Compile**  
-  [YouTube](https://youtu.be/3a4Af-ygcEg?si=tpZ39Er680V3WMa0)
+- **JIT and Compile в PyTorch 2.0. Погружение в JIT trace, jit compile и Compile**  [YouTube](https://youtu.be/3a4Af-ygcEg?si=tpZ39Er680V3WMa0)
 
-- **Прунинг и спарсификация. Обзор основных методов спарсификации моделей, мотивация почему это работает и какие типы спарсификации бывают**  
-  [YouTube](https://youtu.be/K0Ow-Bh58S8?si=ln5hQEcTCe8SeZAN)
+- **Прунинг и спарсификация. Обзор основных методов спарсификации моделей, мотивация почему это работает и какие типы спарсификации бывают** [YouTube](https://youtu.be/K0Ow-Bh58S8?si=ln5hQEcTCe8SeZAN)
 
-- **Квантизация. Основные методы и подходы к квантизации**  
-  [YouTube](https://youtu.be/TyJkig2uR3c?si=y9hd-GmwRXqTAwQK)
+- **Квантизация. Основные методы и подходы к квантизации**  [YouTube](https://youtu.be/TyJkig2uR3c?si=y9hd-GmwRXqTAwQK)
 
-- **Продвинутый прунинг — обучение и другое**  
-  [YouTube](https://youtu.be/TFtgFZvMl1w?si=_fT_THC5zTMG_CiO)
+- **Продвинутый прунинг — обучение и другое**  [YouTube](https://youtu.be/TFtgFZvMl1w?si=_fT_THC5zTMG_CiO)
 
-- **Методы оптимизации LLM: больших языковых моделей — KV-Cache, Paged Attention, GradientCheckpointing и далее**  
-  [YouTube](https://youtu.be/YVsVv4Z2ZjQ?si=l0gZg_2HueJsOBnZ)
+- **Методы оптимизации LLM: больших языковых моделей — KV-Cache, Paged Attention, GradientCheckpointing и далее**  [YouTube](https://youtu.be/YVsVv4Z2ZjQ?si=l0gZg_2HueJsOBnZ)
 
-- **Обзор методов поиска архитектур и оптимизации с помощью LLM**  
-  [YouTube](https://youtu.be/wflWNpYPm48?si=WsZPy7TS_U-TRf3r)
+- **Обзор методов поиска архитектур и оптимизации с помощью LLM**  [YouTube](https://youtu.be/wflWNpYPm48?si=WsZPy7TS_U-TRf3r)
 
 ## Семинары
 
-- **Профилировка моделей с PyTorch Profiler**  
-  [YouTube](https://youtu.be/wXum5mX-nUE?si=enU35KZUnMXM0FcS)
+- **Профилировка моделей с PyTorch Profiler**  [YouTube](https://youtu.be/wXum5mX-nUE?si=enU35KZUnMXM0FcS)
 
-- **Подбор гиперпараметров для моделей + TPE**  
-  [YouTube](https://youtu.be/TabOL3kQsHo?si=HfS__MFVf2nP9hSq)
+- **Подбор гиперпараметров для моделей + TPE**  [YouTube](https://youtu.be/TabOL3kQsHo?si=HfS__MFVf2nP9hSq)
 
-- **Введение в Triton. Примеры программирования кернелей на Triton**  
-  [YouTube](https://youtu.be/8RW3aYU41zA?si=x397ipq4pJFLZeBi)
+- **Введение в Triton. Примеры программирования кернелей на Triton**  [YouTube](https://youtu.be/8RW3aYU41zA?si=x397ipq4pJFLZeBi)
 
-- **Triton + Quant**  
-  [YouTube](https://youtu.be/Um--GUp8b3U?si=Wh48oJX4-VCJrZkb)
+- **Triton + Quant**  [YouTube](https://youtu.be/Um--GUp8b3U?si=Wh48oJX4-VCJrZkb)
 
-- **Работа с JIT, конвертация модели в ONNX. Ускорение модели с JIT и compile**  
-  [YouTube](https://youtu.be/RZoUr0Z1eZk?si=E2hslgdl5grEB32T)
+- **Работа с JIT, конвертация модели в ONNX. Ускорение модели с JIT и compile**  [YouTube](https://youtu.be/RZoUr0Z1eZk?si=E2hslgdl5grEB32T)
 
-- **Структурный и неструктурный прунинг для VGG**  
-  [YouTube](https://youtu.be/OLHtH78wXYo?si=TcqR9vhD29nQBtGG)
+- **Структурный и неструктурный прунинг для VGG**  [YouTube](https://youtu.be/OLHtH78wXYo?si=TcqR9vhD29nQBtGG)
 
-- **Реализация квантования с LSQ. Квантование с PyTorch на CPU**  
-  [YouTube](https://youtu.be/m18jFsQv8Kg?si=FpAOmctzMmJ0iK2A)
+- **Реализация квантования с LSQ. Квантование с PyTorch на CPU**  [YouTube](https://youtu.be/m18jFsQv8Kg?si=FpAOmctzMmJ0iK2A)
 
-- **Продвинутый прунинг**  
-  [YouTube](https://youtu.be/XRyV1IvCSbw?si=26fJ235faSjq2lC3)
+- **Продвинутый прунинг**  [YouTube](https://youtu.be/XRyV1IvCSbw?si=26fJ235faSjq2lC3)
 
 
 # Проекты кураса по категориям:
