@@ -54,7 +54,7 @@
 ## Квантование моделей и Triton-оптимизация
 
 - **Реализация Triton-кернелей для квантизации весов в LLM и инференса квантизованной модели**  
- (1) [Презентация](https://docs.google.com/presentation/d/1wVt59BXlpecdIsPMsVrmu5LWq643lpo4KoSyTwQw2WY/edit?usp=sharing) | [GitHub](https://github.com/echanatwell/LLM_weight_quantization_triton)
+(1) [Презентация](https://docs.google.com/presentation/d/1wVt59BXlpecdIsPMsVrmu5LWq643lpo4KoSyTwQw2WY/edit?usp=sharing) | [GitHub](https://github.com/echanatwell/LLM_weight_quantization_triton)
 
 (2)  [Презентация](https://docs.google.com/presentation/d/1EOnwKNEroBrkImiSahOT7TQaaaZoFN6yECTIENl_Zz0/edit?usp=sharing) | [GitHub](https://github.com/LadaNikitina/EDLM_Ledneva)
 
@@ -144,22 +144,22 @@
 ## Поиск архитектур с помощью LLM (NAS)
 
 - **Автоматический поиск архитектуры под простую задачу с помощью LLM**  
- [GitHub](https://github.com/ITMO-EDLM-TEAM/LLM-NAS/tree/develop)
+(1) [GitHub](https://github.com/ITMO-EDLM-TEAM/LLM-NAS/tree/develop)
 
-- **Автоматический поиск архитектуры под простую задачу с помощью LLM — написание агента**  
-  [GitHub](https://github.com/Irlirion/NAS-LLM-Agent)
 
-- **Автоматический поиск архитектуры под простую задачу с помощью LLM — написание агента**  
-  [GitHub](https://github.com/WpythonW/NAS_LLM)
+(2)  [GitHub](https://github.com/Irlirion/NAS-LLM-Agent)
 
-- **Автоматический поиск архитектуры под простую задачу с помощью LLM — написание агента**  
-  [Презентация](https://docs.google.com/presentation/d/1Ooo3s7lbtlGgAGiRQmD4AQlmL-80FjXKzvKpgW8KJH4/edit?usp=sharing) | [GitHub](https://github.com/dzaripov/arch_agent)
 
-- **Автоматический поиск архитектуры под простую задачу с помощью LLM — написание агента**  
-  [Презентация](https://docs.google.com/presentation/d/1kKUjACGS7QuwrOKG37Lat73nlz80iMsur8bKHzFLGXY/edit?usp=sharing) | [GitHub](https://github.com/slewie/LLMNas)
+(3)  [GitHub](https://github.com/WpythonW/NAS_LLM)
 
-- **Автоматический поиск архитектуры под простую задачу с помощью LLM — написание агента**  
-  [Презентация](https://docs.google.com/presentation/d/1NjTwp3XMCbySExYtCGc1a0AKN-4IFs9z8BTklwbuWAI/edit?usp=sharing) | [GitHub](https://github.com/Fourzeroo/Efficient-model)
+
+(4)  [Презентация](https://docs.google.com/presentation/d/1Ooo3s7lbtlGgAGiRQmD4AQlmL-80FjXKzvKpgW8KJH4/edit?usp=sharing) | [GitHub](https://github.com/dzaripov/arch_agent)
+
+
+(5)  [Презентация](https://docs.google.com/presentation/d/1kKUjACGS7QuwrOKG37Lat73nlz80iMsur8bKHzFLGXY/edit?usp=sharing) | [GitHub](https://github.com/slewie/LLMNas)
+
+
+(6)  [Презентация](https://docs.google.com/presentation/d/1NjTwp3XMCbySExYtCGc1a0AKN-4IFs9z8BTklwbuWAI/edit?usp=sharing) | [GitHub](https://github.com/Fourzeroo/Efficient-model)
 
 ## Эффективное обучение (Data-Efficient Training)
 
@@ -175,16 +175,13 @@
 ## Оптимизация свёрточных слоёв
 
 - **Conv2d Reimagined: img2col, GEMM, Sparsity & Quantization**  
-  [Презентация](https://docs.google.com/presentation/d/1gf_vmIJENtD3EbacVWSf3uub7m1ReNeb0w1AEaTqNcQ/edit?usp=sharing) | [GitHub](https://github.com/GlebIsrailevich/edlm-conv2d)
+(1)  [Презентация](https://docs.google.com/presentation/d/1gf_vmIJENtD3EbacVWSf3uub7m1ReNeb0w1AEaTqNcQ/edit?usp=sharing) | [GitHub](https://github.com/GlebIsrailevich/edlm-conv2d)
 
-- **Conv2d Reimagined: img2col, GEMM, Sparsity & Quantization**  
-  [Презентация](https://docs.google.com/presentation/d/1VOi-fSxuikIaxMdJ_PmxwPcwdqYGmtbZd0JjFSfKVp8/edit?slide=id.p) | [GitHub](https://github.com/EugenePWN/EDLM_Project_ITMO/tree/main)
+(2)  [Презентация](https://docs.google.com/presentation/d/1VOi-fSxuikIaxMdJ_PmxwPcwdqYGmtbZd0JjFSfKVp8/edit?slide=id.p) | [GitHub](https://github.com/EugenePWN/EDLM_Project_ITMO/tree/main)
 
-- **Conv2d Reimagined: img2col, GEMM, Sparsity & Quantization**  
-  [Презентация](https://docs.google.com/presentation/d/12Ua0Q5049UrwVbi2t9F-IiIduJWs7aDHlWfTBjQ7KGk/edit?slide=id.g3a4586df2d4_0_252) | [GitHub](https://github.com/kolyan288/conv2d_reimagined/tree/main)
+(3)  [Презентация](https://docs.google.com/presentation/d/12Ua0Q5049UrwVbi2t9F-IiIduJWs7aDHlWfTBjQ7KGk/edit?slide=id.g3a4586df2d4_0_252) | [GitHub](https://github.com/kolyan288/conv2d_reimagined/tree/main)
 
-- **Conv2d Reimagined: img2col, GEMM, Sparsity & Quantization**  
-  [Презентация](https://docs.google.com/presentation/d/16KEv39tyYu8aMYDQZiRNKGKFPUUWUEVm5UPZs_67Lps/edit?slide=id.g3a83eddbab8_0_5) | [GitHub](https://github.com/Paradocsal/Cond2dReimagined)
+(4)  [Презентация](https://docs.google.com/presentation/d/16KEv39tyYu8aMYDQZiRNKGKFPUUWUEVm5UPZs_67Lps/edit?slide=id.g3a83eddbab8_0_5) | [GitHub](https://github.com/Paradocsal/Cond2dReimagined)
 
-- **Conv2d Reimagined: img2col, GEMM, Sparsity & Quantization**  
-  [Презентация](https://docs.google.com/presentation/d/1JExJh_En-gjypy2seUJGrNnSgyFWH41u3AbuARI7a9Q/edit?slide=id.g3a8109c197c_2_0) | [GitHub](https://github.com/manzhura/conv2d-img2col-gemm)
+
+(5)  [Презентация](https://docs.google.com/presentation/d/1JExJh_En-gjypy2seUJGrNnSgyFWH41u3AbuARI7a9Q/edit?slide=id.g3a8109c197c_2_0) | [GitHub](https://github.com/manzhura/conv2d-img2col-gemm)
