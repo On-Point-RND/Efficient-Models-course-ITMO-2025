@@ -80,7 +80,7 @@
   [Читать далее](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 
 
-# Проекты кураса по категориям:
+# Проекты кураса 2025 ITMO по категориям:
 
 > Квантование моделей и Triton-оптимизация  
 Ускорение и профилирование ASR / Whisper  
