@@ -1,4 +1,4 @@
-# Лекции и семинары по эффективному глубокому обучению
+# Лекции и семинары по курсу эффективные модели глубокого обучения
 
 ## Лекции
 
@@ -40,7 +40,7 @@
 - **Введение в Triton. Примеры программирования кернелей на Triton**  
   [YouTube](https://youtu.be/8RW3aYU41zA?si=x397ipq4pJFLZeBi)
 
-  - **Triton + Quant**  
+- **Triton + Quant**  
   [YouTube](https://youtu.be/Um--GUp8b3U?si=Wh48oJX4-VCJrZkb)
 
 - **Работа с JIT, конвертация модели в ONNX. Ускорение модели с JIT и compile**  
