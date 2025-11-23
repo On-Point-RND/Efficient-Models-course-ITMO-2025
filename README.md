@@ -102,7 +102,7 @@
 ## Поиск архитектур с помощью LLM (NAS)
 
 - **Автоматический поиск архитектуры под простую задачу с помощью LLM**  
-  [Презентация](https://github.com/ITMO-EDLM-TEAM/LLM-NAS/blob/develop/EDLM-Поиск-Архитектуры.pptx) | [GitHub](https://github.com/ITMO-EDLM-TEAM/LLM-NAS/tree/develop)
+ [GitHub](https://github.com/ITMO-EDLM-TEAM/LLM-NAS/tree/develop)
 
 - **Автоматический поиск архитектуры под простую задачу с помощью LLM — написание агента**  
   [GitHub](https://github.com/Irlirion/NAS-LLM-Agent)
